@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "372082273349",
+    "project_id": "breathinapp-1d029",
+    "storage_bucket": "breathinapp-1d029.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:372082273349:android:51dd01405921b44485472c",
+        "android_client_info": {
+          "package_name": "com.breathinapp.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCscegZxVNbopjEnTrmBYF7u0k-y0s5C6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:372082273349:android:76abe2e000d459a985472c",
+        "android_client_info": {
+          "package_name": "com.maheen.lost_found"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCscegZxVNbopjEnTrmBYF7u0k-y0s5C6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
