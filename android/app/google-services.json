@@ -24,13 +24,6 @@
         }
       }
     },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:372082273349:android:76abe2e000d459a985472c",
-        "android_client_info": {
-          "package_name": "com.maheen.lost_found"
-        }
-      },
       "oauth_client": [],
       "api_key": [
         {
